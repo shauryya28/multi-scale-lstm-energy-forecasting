@@ -1,7 +1,7 @@
 # multi-scale-lstm-energy-forecasting
 Multi-scale LSTM model with attention mechanism for daily, weekly, and monthly residential energy forecasting using the London Smart Meters dataset. Integrates weather, holiday, and household features with PCA and Lasso-based feature selection to improve multi-horizon prediction accuracy.
 
-Overview
+#Overview
 <br>
 This project implements a Multi-Scale Long Short-Term Memory (LSTM) model with an Attention mechanism for residential electricity consumption forecasting at multiple time horizons:
 <br>
